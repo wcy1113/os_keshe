@@ -10,7 +10,6 @@ public class MuseumDemo {
             t.start();
         }
     }
-
 }
 
 class museumdoor{
